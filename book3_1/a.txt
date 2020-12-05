@@ -1,0 +1,485 @@
+卷 大猪蹄子 的文件夹 PATH 列表
+卷序列号为 E2AD-4580
+D:.
+│  a.txt
+│  book.iml
+│  
+├─.idea
+│  │  .gitignore
+│  │  dataSources.local.xml
+│  │  dataSources.xml
+│  │  jsLibraryMappings.xml
+│  │  misc.xml
+│  │  modules.xml
+│  │  uiDesigner.xml
+│  │  workspace.xml
+│  │  
+│  ├─artifacts
+│  │      book_war_exploded.xml
+│  │      
+│  ├─dataSources
+│  │  │  d672108e-326a-4f45-a165-adffbd7c1cb4.xml
+│  │  │  
+│  │  └─d672108e-326a-4f45-a165-adffbd7c1cb4
+│  │      └─storage_v2
+│  │          └─_src_
+│  │              └─schema
+│  │                      information_schema.FNRwLQ.meta
+│  │                      
+│  └─libraries
+│          Java_EE_6_Java_EE_6.xml
+│          lib.xml
+│          mysql_connector_java_5_1_28_bin.xml
+│          
+├─lib
+│      javax.annotation.jar
+│      javax.ejb.jar
+│      javax.jms.jar
+│      javax.persistence.jar
+│      javax.resource.jar
+│      javax.servlet.jar
+│      javax.servlet.jsp.jar
+│      javax.transaction.jar
+│      
+├─out
+│  ├─artifacts
+│  │  └─book_war_exploded
+│  │      │  index.jsp
+│  │      │  
+│  │      ├─admin
+│  │      ├─pages
+│  │      │  ├─admin
+│  │      │  │      adminindex.jsp
+│  │      │  │      adminlogin.jsp
+│  │      │  │      adminlogin_success.jsp
+│  │      │  │      regist.jsp
+│  │      │  │      regist_success.jsp
+│  │      │  │      
+│  │      │  ├─cart
+│  │      │  │      cart.jsp
+│  │      │  │      checkout.jsp
+│  │      │  │      
+│  │      │  ├─client
+│  │      │  │      admin_index.jsp
+│  │      │  │      index.jsp
+│  │      │  │      
+│  │      │  ├─common
+│  │      │  │      adminlogin_success_menu.jsp
+│  │      │  │      footer.jsp
+│  │      │  │      head.jsp
+│  │      │  │      login_success_menu.jsp
+│  │      │  │      manager_menu.jsp
+│  │      │  │      page_nav.jsp
+│  │      │  │      
+│  │      │  ├─manager
+│  │      │  │      book_edit.jsp
+│  │      │  │      book_manager.jsp
+│  │      │  │      manager.jsp
+│  │      │  │      order_manager.jsp
+│  │      │  │      
+│  │      │  ├─order
+│  │      │  │      order.jsp
+│  │      │  │      
+│  │      │  ├─test
+│  │      │  │  │  index.jsp
+│  │      │  │  │  
+│  │      │  │  ├─dzcp
+│  │      │  │  │      index.jsp
+│  │      │  │  │      
+│  │      │  │  └─fzyp
+│  │      │  │          index.jsp
+│  │      │  │          
+│  │      │  └─user
+│  │      │          admin.jsp
+│  │      │          admin_success.jsp
+│  │      │          login.jsp
+│  │      │          login_success.jsp
+│  │      │          regist.jsp
+│  │      │          regist_success.jsp
+│  │      │          user.jsp
+│  │      │          
+│  │      ├─static
+│  │      │  ├─css
+│  │      │  │      code.bmp
+│  │      │  │      logo.jpg
+│  │      │  │      pwd-icons-new.png
+│  │      │  │      style.css
+│  │      │  │      
+│  │      │  ├─img
+│  │      │  │      c++.jpg
+│  │      │  │      code.bmp
+│  │      │  │      crasing.jpg
+│  │      │  │      data.jpg
+│  │      │  │      default.jpg
+│  │      │  │      logo.gif
+│  │      │  │      pingfan.jpg
+│  │      │  │      pwd-icons-new.png
+│  │      │  │      xusanguan.jpg
+│  │      │  │      
+│  │      │  └─script
+│  │      │          jquery-1.7.2.js
+│  │      │          
+│  │      └─WEB-INF
+│  │          │  web.xml
+│  │          │  
+│  │          ├─classes
+│  │          │  │  jdbc.properties
+│  │          │  │  
+│  │          │  ├─admin
+│  │          │  │      Admin.class
+│  │          │  │      AdminDao.class
+│  │          │  │      AdminDaoImpl.class
+│  │          │  │      AdminDaoTest.class
+│  │          │  │      AdminService.class
+│  │          │  │      AdminServiceImpl.class
+│  │          │  │      AdminServlet.class
+│  │          │  │      glogin_success.jsp
+│  │          │  │      plogin_success.jsp
+│  │          │  │      
+│  │          │  ├─com
+│  │          │  │  ├─atguigu
+│  │          │  │  │  ├─dao
+│  │          │  │  │  │  └─impl
+│  │          │  │  │  ├─pojo
+│  │          │  │  │  ├─service
+│  │          │  │  │  │  └─impl
+│  │          │  │  │  ├─test
+│  │          │  │  │  ├─utils
+│  │          │  │  │  └─web
+│  │          │  │  └─maoqinfeng
+│  │          │  │      ├─dao
+│  │          │  │      │  │  BookDao.class
+│  │          │  │      │  │  OrderDao.class
+│  │          │  │      │  │  OrderItemDao.class
+│  │          │  │      │  │  UserDao.class
+│  │          │  │      │  │  
+│  │          │  │      │  └─impl
+│  │          │  │      │          BaseDao.class
+│  │          │  │      │          BookDaoImpl.class
+│  │          │  │      │          OrderDaoImpl.class
+│  │          │  │      │          OrderItemDaoImpl.class
+│  │          │  │      │          UserDaoImpl.class
+│  │          │  │      │          
+│  │          │  │      ├─filter
+│  │          │  │      │      CartFilter.class
+│  │          │  │      │      ManagerFilter.class
+│  │          │  │      │      
+│  │          │  │      ├─pojo
+│  │          │  │      │      Book.class
+│  │          │  │      │      Cart.class
+│  │          │  │      │      CartItem.class
+│  │          │  │      │      Order.class
+│  │          │  │      │      OrderItem.class
+│  │          │  │      │      Page.class
+│  │          │  │      │      User.class
+│  │          │  │      │      
+│  │          │  │      ├─service
+│  │          │  │      │  │  BookService.class
+│  │          │  │      │  │  OrderService.class
+│  │          │  │      │  │  UserService.class
+│  │          │  │      │  │  
+│  │          │  │      │  └─impl
+│  │          │  │      │          BookServiceImpl.class
+│  │          │  │      │          OrderServiceImpl.class
+│  │          │  │      │          UserServiceImpl.class
+│  │          │  │      │          
+│  │          │  │      ├─test
+│  │          │  │      │      BookDaoTest.class
+│  │          │  │      │      BookServiceTest.class
+│  │          │  │      │      CartTest.class
+│  │          │  │      │      JdbcUtilsTest.class
+│  │          │  │      │      OrderDaoTest.class
+│  │          │  │      │      OrderItemDaoTest.class
+│  │          │  │      │      OrderServiceTest.class
+│  │          │  │      │      UserDaoTest.class
+│  │          │  │      │      UserServiceTest.class
+│  │          │  │      │      UserServletTest.class
+│  │          │  │      │      
+│  │          │  │      ├─utils
+│  │          │  │      │      JdbcUtils.class
+│  │          │  │      │      WebUtils.class
+│  │          │  │      │      
+│  │          │  │      └─web
+│  │          │  │              BaseServlet.class
+│  │          │  │              BookServlet.class
+│  │          │  │              CartServlet.class
+│  │          │  │              ClientBookServlet.class
+│  │          │  │              LoginServlet.class
+│  │          │  │              OrderServlet.class
+│  │          │  │              RegistServlet.class
+│  │          │  │              UserServlet.class
+│  │          │  │              
+│  │          │  └─META-INF
+│  │          │          book.kotlin_module
+│  │          │          
+│  │          └─lib
+│  │                  commons-beanutils-1.8.0.jar
+│  │                  commons-dbutils-1.3.jar
+│  │                  commons-logging-1.1.1.jar
+│  │                  druid-1.1.9.jar
+│  │                  hamcrest-core-1.3.jar
+│  │                  junit-4.12.jar
+│  │                  kaptcha-2.3.2.jar
+│  │                  mysql-connector-java-5.1.28-bin.jar
+│  │                  servlet-api.jar
+│  │                  taglibs-standard-impl-1.2.1.jar
+│  │                  taglibs-standard-spec-1.2.1.jar
+│  │                  tomcat-api.jar
+│  │                  
+│  └─production
+│      └─book
+│          │  jdbc.properties
+│          │  
+│          ├─admin
+│          │      Admin.class
+│          │      AdminDao.class
+│          │      AdminDaoImpl.class
+│          │      AdminDaoTest.class
+│          │      AdminService.class
+│          │      AdminServiceImpl.class
+│          │      AdminServlet.class
+│          │      glogin_success.jsp
+│          │      plogin_success.jsp
+│          │      
+│          ├─com
+│          │  └─maoqinfeng
+│          │      ├─dao
+│          │      │  │  BookDao.class
+│          │      │  │  OrderDao.class
+│          │      │  │  OrderItemDao.class
+│          │      │  │  UserDao.class
+│          │      │  │  
+│          │      │  └─impl
+│          │      │          BaseDao.class
+│          │      │          BookDaoImpl.class
+│          │      │          OrderDaoImpl.class
+│          │      │          OrderItemDaoImpl.class
+│          │      │          UserDaoImpl.class
+│          │      │          
+│          │      ├─filter
+│          │      │      CartFilter.class
+│          │      │      ManagerFilter.class
+│          │      │      
+│          │      ├─pojo
+│          │      │      Book.class
+│          │      │      Cart.class
+│          │      │      CartItem.class
+│          │      │      Order.class
+│          │      │      OrderItem.class
+│          │      │      Page.class
+│          │      │      User.class
+│          │      │      
+│          │      ├─service
+│          │      │  │  BookService.class
+│          │      │  │  OrderService.class
+│          │      │  │  UserService.class
+│          │      │  │  
+│          │      │  └─impl
+│          │      │          BookServiceImpl.class
+│          │      │          OrderServiceImpl.class
+│          │      │          UserServiceImpl.class
+│          │      │          
+│          │      ├─test
+│          │      │      BookDaoTest.class
+│          │      │      BookServiceTest.class
+│          │      │      CartTest.class
+│          │      │      JdbcUtilsTest.class
+│          │      │      OrderDaoTest.class
+│          │      │      OrderItemDaoTest.class
+│          │      │      OrderServiceTest.class
+│          │      │      UserDaoTest.class
+│          │      │      UserServiceTest.class
+│          │      │      UserServletTest.class
+│          │      │      
+│          │      ├─utils
+│          │      │      JdbcUtils.class
+│          │      │      WebUtils.class
+│          │      │      
+│          │      └─web
+│          │              BaseServlet.class
+│          │              BookServlet.class
+│          │              CartServlet.class
+│          │              ClientBookServlet.class
+│          │              LoginServlet.class
+│          │              OrderServlet.class
+│          │              RegistServlet.class
+│          │              UserServlet.class
+│          │              
+│          └─META-INF
+│                  book.kotlin_module
+│                  
+├─sql
+│      book.sql
+│      
+├─src
+│  │  jdbc.properties
+│  │  
+│  └─com
+│      └─maoqinfeng
+│          ├─admin
+│          │      AdminDao.java
+│          │      AdminService.java
+│          │      glogin_success.jsp
+│          │      plogin_success.jsp
+│          │      
+│          ├─dao
+│          │  │  AdminDao.java
+│          │  │  BookDao.java
+│          │  │  OrderDao.java
+│          │  │  OrderItemDao.java
+│          │  │  UserDao.java
+│          │  │  
+│          │  └─impl
+│          │          AdminDaoImpl.java
+│          │          BaseDao.java
+│          │          BookDaoImpl.java
+│          │          OrderDaoImpl.java
+│          │          OrderItemDaoImpl.java
+│          │          UserDaoImpl.java
+│          │          
+│          ├─filter
+│          │      CartFilter.java
+│          │      ManagerFilter.java
+│          │      
+│          ├─pojo
+│          │      Admin.java
+│          │      Book.java
+│          │      Cart.java
+│          │      CartItem.java
+│          │      Order.java
+│          │      OrderItem.java
+│          │      Page.java
+│          │      User.java
+│          │      
+│          ├─service
+│          │  │  AdminService.java
+│          │  │  BookService.java
+│          │  │  OrderService.java
+│          │  │  UserService.java
+│          │  │  
+│          │  └─impl
+│          │          AdminServiceImpl.java
+│          │          BookServiceImpl.java
+│          │          OrderServiceImpl.java
+│          │          UserServiceImpl.java
+│          │          
+│          ├─test
+│          │      AdminDaoTest.java
+│          │      BookDaoTest.java
+│          │      BookServiceTest.java
+│          │      CartTest.java
+│          │      JdbcUtilsTest.java
+│          │      OrderDaoTest.java
+│          │      OrderItemDaoTest.java
+│          │      OrderServiceTest.java
+│          │      UserDaoTest.java
+│          │      UserServiceTest.java
+│          │      UserServletTest.java
+│          │      
+│          ├─utils
+│          │      JdbcUtils.java
+│          │      WebUtils.java
+│          │      
+│          └─web
+│                  AdminServlet.java
+│                  BaseServlet.java
+│                  BookServlet.java
+│                  CartServlet.java
+│                  ClientBookServlet.java
+│                  LoginServlet.java
+│                  OrderServlet.java
+│                  RegistServlet.java
+│                  UserServlet.java
+│                  
+└─web
+    │  index.jsp
+    │  
+    ├─pages
+    │  ├─admin
+    │  │      adminindex.jsp
+    │  │      adminlogin.jsp
+    │  │      adminlogin_success.jsp
+    │  │      regist.jsp
+    │  │      regist_success.jsp
+    │  │      
+    │  ├─cart
+    │  │      cart.jsp
+    │  │      checkout.jsp
+    │  │      
+    │  ├─client
+    │  │      admin_index.jsp
+    │  │      index.jsp
+    │  │      
+    │  ├─common
+    │  │      adminlogin_success_menu.jsp
+    │  │      footer.jsp
+    │  │      head.jsp
+    │  │      login_success_menu.jsp
+    │  │      manager_menu.jsp
+    │  │      page_nav.jsp
+    │  │      
+    │  ├─manager
+    │  │      book_edit.jsp
+    │  │      book_manager.jsp
+    │  │      manager.jsp
+    │  │      order_manager.jsp
+    │  │      
+    │  ├─order
+    │  │      order.jsp
+    │  │      
+    │  ├─test
+    │  │  │  index.jsp
+    │  │  │  
+    │  │  ├─dzcp
+    │  │  │      index.jsp
+    │  │  │      
+    │  │  └─fzyp
+    │  │          index.jsp
+    │  │          
+    │  └─user
+    │          admin.jsp
+    │          admin_success.jsp
+    │          login.jsp
+    │          login_success.jsp
+    │          regist.jsp
+    │          regist_success.jsp
+    │          user.jsp
+    │          
+    ├─static
+    │  ├─css
+    │  │      code.bmp
+    │  │      logo.jpg
+    │  │      pwd-icons-new.png
+    │  │      style.css
+    │  │      
+    │  ├─img
+    │  │      c++.jpg
+    │  │      code.bmp
+    │  │      crasing.jpg
+    │  │      data.jpg
+    │  │      default.jpg
+    │  │      logo.gif
+    │  │      pingfan.jpg
+    │  │      pwd-icons-new.png
+    │  │      xusanguan.jpg
+    │  │      
+    │  └─script
+    │          jquery-1.7.2.js
+    │          
+    └─WEB-INF
+        │  web.xml
+        │  
+        └─lib
+                commons-beanutils-1.8.0.jar
+                commons-dbutils-1.3.jar
+                commons-logging-1.1.1.jar
+                druid-1.1.9.jar
+                hamcrest-core-1.3.jar
+                junit-4.12.jar
+                kaptcha-2.3.2.jar
+                mysql-connector-java-5.1.28-bin.jar
+                servlet-api.jar
+                taglibs-standard-impl-1.2.1.jar
+                taglibs-standard-spec-1.2.1.jar
+                tomcat-api.jar
+                
